@@ -12,6 +12,7 @@ export default defineConfig(() => ({
   },
   resolve: {
     alias: {
+      fs: require.resolve("rollup-plugin-node-builtins"),
       crypto: 'crypto-browserify',
     },
   },

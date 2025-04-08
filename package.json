@@ -52,6 +52,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0",
     "request": "^2.88.2",
+    "rollup-plugin-node-builtins": "^2.1.2",
     "room-populate": "^1.0.17",
     "styled-components": "^6.0.8",
     "swr": "^2.2.4",
